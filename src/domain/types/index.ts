@@ -11,3 +11,10 @@ export {
 export { MinistryCaseNumber } from "./MinistryCaseNumber";
 export { magicalSignature, WithMagicalSignature } from "./MagicalSignature";
 export { WandAbility, WandAbilityFlags, hasAbility } from "./WandAbility";
+export {
+  StudentYear,
+  QuidditchPosition,
+  QuidditchPlayer,
+  Prefect,
+} from "./Roles";
+export { StudentSummary } from "./StudentSummary";
