@@ -8,3 +8,6 @@ export {
   WizardExpelledEvent,
   ExtractedSpellCastEvent,
 } from "./AcademyEvent";
+export { MinistryCaseNumber } from "./MinistryCaseNumber";
+export { magicalSignature, WithMagicalSignature } from "./MagicalSignature";
+export { WandAbility, WandAbilityFlags, hasAbility } from "./WandAbility";
