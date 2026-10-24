@@ -1,0 +1,26 @@
+{
+  "name": "hogwarts-registry",
+  "version": "1.0.0",
+  "description": "Hogwarts Registry – TypeScript advanced project",
+  "main": "dist/main.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/main.js",
+    "phase1": "npx ts-node src/demos/phase1.ts",
+    "phase2": "npx ts-node src/demos/phase2.ts",
+    "phase3": "npx ts-node src/demos/phase3.ts",
+    "phase4": "npx ts-node src/demos/phase4.ts",
+    "phase5": "npx ts-node src/demos/phase5.ts",
+    "phase6": "npx ts-node src/demos/phase6.ts",
+    "phase7": "npx ts-node src/demos/phase7.ts",
+    "phase8": "npx ts-node src/demos/phase8.ts",
+    "phase9": "npx ts-node src/demos/phase9.ts",
+    "phase10": "npx ts-node src/demos/phase10.ts"
+  },
+  "devDependencies": {
+    "typescript": "~5.4.5",
+    "ts-node": "^10.9.2",
+    "@types/node": "^20.14.0"
+  },
+  "private": true
+}
