@@ -1,0 +1,1 @@
+export { validHouses } from "./validHouses";
